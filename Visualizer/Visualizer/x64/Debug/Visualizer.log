@@ -1,0 +1,10 @@
+﻿  Reading Qt configuration (C:/Qt/Qt5.12.12/5.12.12/msvc2017_64/bin/qmake)
+  uic Visualizer.ui
+  rcc Visualizer.qrc
+  moc Visualizer.h
+   RCC: Warning: No resources in 'D:\Tech Excellence - Department\Training_Projects\Qt_5.10\Qt_5.10\Visualizer\Visualizer.qrc'.
+  Visualizer.cpp
+  main.cpp
+  qrc_Visualizer.cpp
+  moc_Visualizer.cpp
+  Visualizer.vcxproj -> D:\Tech Excellence - Department\Training_Projects\Qt_5.10\Qt_5.10\Visualizer\x64\Debug\Visualizer.exe
